@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\bin\Debug\ConseApp.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\bin\Debug\ConseApp.exe
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\bin\Debug\ConseApp.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\bin\Debug\DevTeams_POCOs.dll
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\bin\Debug\DevTeams_Repository.dll
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\bin\Debug\DevTeams_POCOs.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\bin\Debug\DevTeams_Repository.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\obj\Debug\DevTeams_UI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\obj\Debug\DevTeams_UI.csproj.SuggestedBindingRedirects.cache
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\obj\Debug\DevTeams_UI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\obj\Debug\DevTeams_UI.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\obj\Debug\ConseApp.exe
+C:\ElevenFiftyProjects\DotNetProjects\Dev_Teams\ConseApp\obj\Debug\ConseApp.pdb
